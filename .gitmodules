@@ -1,0 +1,21 @@
+[submodule "vendor/ponytail"]
+	path = vendor/ponytail
+	url = https://github.com/DietrichGebert/ponytail
+[submodule "vendor/caveman"]
+	path = vendor/caveman
+	url = https://github.com/JuliusBrussee/caveman
+[submodule "vendor/rtk"]
+	path = vendor/rtk
+	url = https://github.com/rtk-ai/rtk
+[submodule "vendor/headroom"]
+	path = vendor/headroom
+	url = https://github.com/headroomlabs-ai/headroom
+[submodule "vendor/context-mode"]
+	path = vendor/context-mode
+	url = https://github.com/mksglu/context-mode
+[submodule "vendor/serena"]
+	path = vendor/serena
+	url = https://github.com/oraios/serena
+[submodule "vendor/token-optimizer"]
+	path = vendor/token-optimizer
+	url = https://github.com/alexgreensh/token-optimizer
